@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=TharVid)](https://github.com/anuraghazra/github-readme-stats)
+  [![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=TharVid)]
 
 </details>
 
