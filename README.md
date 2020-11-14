@@ -24,6 +24,10 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Qwiklabs Swags This Diwali](https://geekswags.com/diwali-with-qwiklabs/)
+- [Free Developer Stickers GitHub](https://geekswags.com/free-developer-stickers-github/)
+- [Civo Cloud Free T-shirt, Stickers, And Mug Goodies](https://geekswags.com/free-cloud-tshirt-mug-stickers/)
+- [Google Free T-Shirt For All](https://geekswags.com/free-google-t-shirt-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Free Developer Swags...](https://geekswags.com/blog)
