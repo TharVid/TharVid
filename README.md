@@ -1,15 +1,12 @@
 ### Hi there, I'm [Sunil Kumar][website] 👋
 
-[![Website](https://img.shields.io/website?label=GeekSwags.Com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## I'm a Student, Freelancer, Marketer, Cloud Developer!!
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my swags e-commerce Store: [GeekSwags.Com][web1]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for seo and marketing projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Proud IEEE Volunteer & Community Leader
 
 ### Spotify Playing 🎧
 
@@ -97,8 +94,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://www.sunilk.org/
+[web1]: https://geekswags.com/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
