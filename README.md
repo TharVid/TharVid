@@ -24,6 +24,7 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Scaler Goodies By Attending Online Events](https://geekswags.com/free-scaler-tshirt-goodies/)
 - [Free Qwiklabs Swags This Diwali](https://geekswags.com/diwali-with-qwiklabs/)
 - [Free Developer Stickers GitHub](https://geekswags.com/free-developer-stickers-github/)
 - [Civo Cloud Free T-shirt, Stickers, And Mug Goodies](https://geekswags.com/free-cloud-tshirt-mug-stickers/)
