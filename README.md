@@ -24,11 +24,11 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Redwoodjs Developer Sticker](https://geekswags.com/free-developer-sticker-in-2020/)
 - [How To Get Nikon Free Goodies](https://geekswags.com/free-goodies-in-india/)
 - [Get Scaler Goodies By Attending Online Events](https://geekswags.com/free-scaler-tshirt-goodies/)
 - [Free Qwiklabs Swags This Diwali](https://geekswags.com/diwali-with-qwiklabs/)
 - [Free Developer Stickers GitHub](https://geekswags.com/free-developer-stickers-github/)
-- [Civo Cloud Free T-shirt, Stickers, And Mug Goodies](https://geekswags.com/free-cloud-tshirt-mug-stickers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Free Developer Swags...](https://geekswags.com/blog)
