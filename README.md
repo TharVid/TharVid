@@ -24,11 +24,11 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwiklabs & Paloalto- Google Virtual Lab Gaming Days Challenge](https://geekswags.com/qwiklabs-paloalto-google-virtual-lab-gaming-days-challenge/)
 - [Free Peta stickers and literature](https://geekswags.com/free-peta-stickers-and-literature/)
 - [Civo Cloud Free T-shirt, Stickers, And Mug Goodies](https://geekswags.com/free-cloud-tshirt-mug-stickers/)
 - [Free Redwoodjs Developer Sticker](https://geekswags.com/free-developer-sticker-in-2020/)
 - [How To Get Nikon Free Goodies](https://geekswags.com/free-goodies-in-india/)
-- [Get Scaler Goodies By Attending Online Events](https://geekswags.com/free-scaler-tshirt-goodies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Free Developer Swags...](https://geekswags.com/blog)
