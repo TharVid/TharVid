@@ -24,7 +24,7 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaler Goodies 23 December](https://geekswags.com/scaler-goodies-23-december/)
+- [MLH Local Hack Day Swags](https://geekswags.com/mlh-local-hack-day-swags/)
 - [Scaler Goodies New Opportunity](https://geekswags.com/scaler-goodies-new-opprtunity/)
 - [Qwiklabs & Paloalto- Google Virtual Lab Gaming Days Challenge](https://geekswags.com/qwiklabs-paloalto-google-virtual-lab-gaming-days-challenge/)
 - [Free Peta stickers and literature](https://geekswags.com/free-peta-stickers-and-literature/)
