@@ -24,11 +24,11 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaler Swags Just For Registration](https://geekswags.com/scaler-swags-just-for-registration/)
 - [FREE Punisher Skateboards stickers!](https://geekswags.com/free-punisher-skateboards-stickers/)
 - [MLH Local Hack Day Swags](https://geekswags.com/mlh-local-hack-day-swags/)
 - [Scaler Goodies New Opportunity](https://geekswags.com/scaler-goodies-new-opprtunity/)
 - [Qwiklabs & Paloalto- Google Virtual Lab Gaming Days Challenge](https://geekswags.com/qwiklabs-paloalto-google-virtual-lab-gaming-days-challenge/)
-- [Free Peta stickers and literature](https://geekswags.com/free-peta-stickers-and-literature/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Free Developer Swags...](https://geekswags.com/blog)
