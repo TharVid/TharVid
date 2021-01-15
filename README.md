@@ -24,11 +24,11 @@
 ### 📕 Latest Developer Swags
 
 <!-- BLOG-POST-LIST:START -->
+- [Google cloud community days India: Swags](https://geekswags.com/google-cloud-community-days-india-swags/)
 - [Participate and Get Google Hash code Swags](https://geekswags.com/participate-and-get-google-hash-code-swags/)
 - [Scaler Swags Just For Registration](https://geekswags.com/scaler-swags-just-for-registration/)
 - [FREE Punisher Skateboards stickers!](https://geekswags.com/free-punisher-skateboards-stickers/)
 - [MLH Local Hack Day Swags](https://geekswags.com/mlh-local-hack-day-swags/)
-- [Scaler Goodies New Opportunity](https://geekswags.com/scaler-goodies-new-opprtunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Free Developer Swags...](https://geekswags.com/blog)
