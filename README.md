@@ -4,8 +4,7 @@
 
 - 🔭 I just launched my swags e-commerce Store: [GeekSwags.Com][web1]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for seo and marketing projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Proud IEEE Volunteer & Community Leader
 
 ### Connect with me:
