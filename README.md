@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sunil Kumar][website] 👋
 
-## I'm a Student, Freelancer, Marketer, Cloud Developer!!
+## I'm a Student, Freelancer, Security Researcher, Cloud Developer!!
 
 - 🔭 I just launched my swags e-commerce Store: [GeekSwags.Com][web1]!
 - 🌱 I’m currently learning everything 🤣
@@ -42,7 +42,7 @@
 
 </details>
 
-[website]: https://www.sunilk.org/
+[website]: https://www.sunilk.me/
 [web1]: https://geekswags.com/
 [twitter]: https://twitter.com/stharvid
 [instagram]: https://instagram.com/stharvid
