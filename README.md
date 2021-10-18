@@ -2,11 +2,6 @@
 
 ## I'm a Student, Freelancer, Security Researcher, Cloud Developer!!
 
-- 🔭 I just launched my swags e-commerce Store: [GeekSwags.Com][web1]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Proud IEEE Volunteer & Community Leader
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
