@@ -42,13 +42,15 @@ I am a passionate Security Engineer with experience in Cloud Infrastructure Secu
 
 ## Education
 
-### Bachelor of Technology - B.Tech (Computer Science & Engineering)
-#### Government Engineering College, Ajmer
+
+### Government Engineering College, Ajmer
+#### Bachelor of Technology - B.Tech (Computer Science & Engineering)
 #### July 2018 - September 2022
 GPA: 7.94/10.00
 
-### Science - PCM (Percentage: 89.60/100.00)
-#### Aastha Academy Senior Secondary School, Sikar
+
+### Aastha Academy Senior Secondary School, Sikar
+#### Science - PCM (Percentage: 89.60/100.00)
 #### July 2016 - July 2017
 
 ---
