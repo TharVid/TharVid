@@ -1,6 +1,6 @@
 # Sunil Kumar
 
-📞 +91-6376486690 &nbsp;&nbsp; | &nbsp;&nbsp; 📍 Bengaluru, Karnataka &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 [tharvid.com](https://tharvid.com)
+📞 +91-6376486690 &nbsp;&nbsp; | &nbsp;&nbsp; 📍 Bengaluru, Karnataka &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 [tharvid.com](https://tharvid.com) | &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/tharvid/)
 
 ---
 
