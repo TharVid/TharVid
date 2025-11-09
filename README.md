@@ -1,80 +1,105 @@
-# Sunil Kumar
+# 🧑‍💻 Sunil Kumar
 
-📞 +91-6376486690 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Jaipur, Rajasthan, India &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [tharvid.in](https://tharvid.in)  
-[LinkedIn](https://www.linkedin.com/in/tharvid/) • [GitHub](https://github.com/TharVid) • ✉️ stharvid@gmail.com  
+📞 +91-6376486690 &nbsp;|&nbsp; 📍 Jaipur, Rajasthan, India  
+🌐 [tharvid.in](https://tharvid.in) • [LinkedIn](https://www.linkedin.com/in/tharvid/) • [GitHub](https://github.com/TharVid)  
+✉️ stharvid@gmail.com  
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate **Security Engineer** with 4+ years of hands-on experience securing cloud environments and building scalable security programs. My expertise spans **DevSecOps**, **Incident Response**, **Cloud Security** (AWS, GCP, Azure), **Security Automation**, and **Compliance Alignment**.  
+I'm a **Senior Security Engineer** with over **4 years of professional experience**, currently working at **Porch Group**.  
+My expertise spans **Cloud Security**, **DevSecOps**, **Incident Response**, **Security Automation**, **SOC Implementation**, and **Compliance Alignment**.  
 
-Currently at **Porch Group**, I focus on securing CI/CD pipelines, implementing SIEM and SOAR solutions, automating vulnerability triage, and driving proactive threat detection across multi-cloud environments.  
+I specialize in securing multi-cloud environments (AWS, GCP, Azure), building scalable **security automation workflows**, and enabling organizations to achieve faster and more reliable **threat detection and response** through **DevSecOps and SOAR** practices.  
 
 ---
 
 ## 💼 Experience
 
-### 🔐 Security Engineer — Porch Group _(Remote)_
-**Jun 2024 – Present**
+### 🔐 Senior Security Engineer — Porch Group _(Remote)_  
+**Nov 2025 – Present**  
+**Security Engineer — Jun 2024 – Nov 2025**
 
-- Built and managed a full-stack DevSecOps pipeline (SAST, DAST, IaC, Secrets, API fuzzing, Container scanning).
-- Automated vulnerability triage for 500+ repos across AWS/GCP/Azure with ASPM + Jira integration.
-- Implemented SIEM from scratch with 50+ sources, custom parsers, correlation rules, and SOAR playbooks.
-- Ensured PCI-DSS compliance through CIS Control implementation across all 18 domains.
-- Automated security workflows using Python, AWS Lambda, and GCP Functions.
+- Developed and maintained **DevSecOps pipelines** integrating SAST, IaC scanning, secrets detection, container scanning, DAST, API fuzzing, and dependency scanning.  
+- Automated vulnerability triage and reporting for **500+ repositories** across AWS, GCP, and Azure, integrating with **Jira and ASPM** tools.  
+- Implemented a **SIEM** with 50+ data sources, creating custom parsers, correlation rules, and **SOAR response workflows** for faster detection and remediation.  
+- Deployed and managed **10+ Kubernetes clusters** into a **KSPM platform** with runtime protection and workload visibility.  
+- Automated cloud and infrastructure processes using **Python, AWS Lambda**, and **Google Cloud Functions**.  
+- Conducted **CIS control gap assessments** to ensure **PCI-DSS** compliance across 18 domains.  
+- Collaborated with business leaders and security stakeholders across **multiple subsidiaries** to close vulnerabilities and standardize policy enforcement.
 
-### 🛡️ Security Engineer — ACKO General Insurance, Bengaluru  
+---
+
+### 🛡️ Security Engineer — ACKO General Insurance _(Bengaluru)_  
 **Aug 2021 – Jun 2024**
 
-- Secured AWS workloads using GuardDuty, Config, CloudTrail, Macie, Inspector, and Security Hub.
-- Integrated DevSecOps into CI/CD: SAST, SCA, Secrets, IaC scanning, Container scanning, and DAST.
-- Managed EDR, CASB, MDM, and IAM enforcement (RBAC, SSO, Conditional Access).
-- Built custom security tooling (phishing platform, DNS blocker, risk assessment engines).
-- Ran microservice/API-focused penetration tests and led incident response efforts.
+- Deployed and managed AWS-native security services — **CloudTrail, Config, Inspector, Detective, Macie, GuardDuty, and Security Hub** — for continuous monitoring and compliance.  
+- Integrated **DevSecOps controls** (SAST, SCA, IaC scanning, DAST, and Container scanning) directly into CI/CD pipelines.  
+- Designed and enforced security policies across **EDR, CASB, MDM**, and **IAM** with **RBAC, SSO, and Conditional Access** in Google Workspace, AWS, and GCP.  
+- Created custom internal security tools — including **phishing simulation**, **TPRM automation**, and **DNS filtering** — to improve process efficiency.  
+- Led **incident response** and **vulnerability management** workflows to strengthen defensive posture.  
+- Conducted penetration testing and infrastructure risk assessments across production environments.
 
 ---
 
-## 🛠️ Skills
+### ☁️ Associate - Cloud Infra and Security Intern — Celebal Technologies _(Jaipur)_  
+**Feb 2021 – Jun 2021**
 
-**Technologies:** Cloud Security • DevSecOps • Security Automation • SIEM/SOAR • Pen Testing • Incident Response • Threat Detection  
-**Tools:** AWS • GCP • Azure • Python • Jenkins • Docker • Kubernetes • Git • OWASP ZAP • Trivy • Semgrep • Checkov • Gitleaks • CrowdStrike • Netskope • Cloudflare • Coralogix • Chronicle • Okta • Azure AD  
-**Frameworks:** CIS Controls • PCI-DSS • ISO 27001
+- Developed **PoCs** focused on **M365 Security**, **Azure AD**, and **Okta integration** for identity and access management.  
+- Built **Azure Monitor** and **Dynatrace** dashboards for proactive alerting and performance security insights.  
+- Strengthened **email threat defense** using **Microsoft Defender for Office 365**, improving phishing resilience.  
+- Demonstrated an early passion for **cloud and identity security** through independent project ownership.
 
 ---
 
-## 🚀 Projects
+## 🎓 Education
 
-### 🔐 DevSecOps Pipeline with Open-Source Tools  
-Built a full DevSecOps pipeline with Jenkins integrating Semgrep, Checkov, Trivy, Gitleaks, OWASP ZAP, and AWS ECR scanning. Alerts sent to Jira and DefectDojo.
+**Bachelor of Technology (B.Tech)** — Computer Science & Engineering  
+📍 *Government Engineering College, Ajmer* | **GPA:** 7.94 / 10  
+**2018 – 2022**
+
+---
+
+## ⚙️ Skills
+
+**Technologies:** Cloud Security • DevSecOps • Security Automation • SOC Implementation • Incident Response • Threat Detection • SIEM • Pen Testing • IAM • DLP • ASPM • CSPM • SOAR  
+
+**Tools:** AWS • GCP • Azure • Python • Docker • Jenkins • Git • Kubernetes • Burp Suite • Trivy • Semgrep • Checkov • Gitleaks • OWASP ZAP • CrowdStrike • NetSkope • Mimecast • Cloudflare • CheckPoint • Coralogix • Cisco Meraki • DNSFilter • Qualys • Rapid7 • Chronicle • Okta • Azure AD  
+
+**Frameworks/Standards:** CIS Critical Security Controls • PCI-DSS • ISO/IEC 27001  
+
+---
+
+## 🚀 Personal Learning Projects
+
+### ⚙️ Enterprise SOAR Workflow Automation  
+Built an enterprise-grade **SOAR workflow** integrating **CheckPoint, Entra ID, Okta, Mimecast, Jira, ServiceDesk, PagerDuty, CrowdStrike XDR, Exchange Online, Google Workspace, AWS**, and **GenAI-based analysis and enrichment** to automate incident response actions triggered by SIEM detections across **multiple subsidiaries**, reducing MTTR significantly.  
+
+### 🧩 DevSecOps Pipeline with Open-Source Tools  
+Implemented an **open-source DevSecOps pipeline** using **Jenkins**, integrating **Semgrep, Checkov, Trivy, Gitleaks, OWASP ZAP**, and **AWS ECR scanning** with automated reporting to **Jira** and **DefectDojo** for vulnerability management.  
 
 ### 🎣 Phishing Awareness Platform with Gophish  
-Developed a phishing simulation platform using Gophish on AWS EC2, integrated with Amazon SES. Used for internal security awareness campaigns.
+Developed a **phishing simulation platform** using **Gophish** hosted on AWS EC2 with **Amazon SES** for realistic phishing campaigns, boosting organization-wide **email security awareness**.  
 
 ---
 
-## 📚 Publications
-
-- 📄 [Fuzzing REST APIs for Bugs: An Empirical Analysis – FICTA 2022](https://link.springer.com/chapter/10.1007/978-981-19-7513-4_28)  
-- 📄 [Artificial Intelligence in Indian Irrigation – IJSRCSEIT (2019)](https://ijsrcseit.com/CSEIT195536)
-
----
-
-## 📜 Certifications
+## 🏅 Certifications
 
 - 🛡️ CompTIA Security+  
 - ☁️ AWS Certified Security – Specialty  
-- 🔐 Google Cloud: Professional Cloud Security Engineer  
+- 🔐 Google Cloud Professional Cloud Security Engineer  
+- 🐳 Docker Foundations Professional Certificate  
 - ☁️ AWS Certified Cloud Practitioner  
-- 🛡️ Microsoft 365: Security Administrator Associate  
+- 🔐 Microsoft 365 Certified: Security Administrator Associate  
 
 ---
 
 ## 🌐 Languages
 
 - English  
-- Hindi
+- Hindi  
 
 ---
 
-**Let’s connect and build secure things!**
+✨ _Let’s connect and secure the world together!_ ✨
