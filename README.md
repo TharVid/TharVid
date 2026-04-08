@@ -2,7 +2,7 @@
 
 **Senior Security Engineer | CISSP**
 
-+91-6376486690 | Jaipur, Rajasthan, India
+Jaipur, Rajasthan, India
 [tharvid.in](https://tharvid.in) | [LinkedIn](https://www.linkedin.com/in/tharvid/) | [GitHub](https://github.com/TharVid) | [stharvid@gmail.com](mailto:stharvid@gmail.com)
 
 ---
